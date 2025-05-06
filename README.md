@@ -70,7 +70,7 @@ pip install -r requirements.txt
 3. Open the notebook:
 
 ```bash
-jupyter notebook Fifa-Seaborn-Data-Analysis.ipynb
+jupyter notebook P3-Fifa-Seaborn-Data-Analysis.ipynb
 ```
 
 ## 📚 Learning Outcomes
